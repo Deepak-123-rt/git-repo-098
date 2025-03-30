@@ -1,3 +1,3 @@
-def test_login():
-    print("login to application")
-test_login()
+from selenium import webdriver
+driver=webdriver.Chrome()
+driver.get("http://127.0.0.1:8080/job/automation-project/19/console")
