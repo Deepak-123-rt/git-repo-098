@@ -1,6 +1,3 @@
 def test_login():
     print("login to application")
-def test_checkout():
-    print("checkout")
-def test_logout():
-    print("logout pto hjhhbhj application")
+test_login()
